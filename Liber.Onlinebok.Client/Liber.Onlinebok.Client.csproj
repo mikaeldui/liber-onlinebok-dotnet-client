@@ -11,6 +11,7 @@
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
     <PackageTags>Liber, Education, Literature, API Client</PackageTags>
     <PackageId>MikaelDui.Liber.Onlinebok.Client</PackageId>
+    <Description>An unofficial .NET client for Liber Onlinebok.</Description>
   </PropertyGroup>
 
   <ItemGroup>
