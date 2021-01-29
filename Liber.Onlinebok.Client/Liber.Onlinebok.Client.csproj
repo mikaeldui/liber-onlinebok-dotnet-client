@@ -10,6 +10,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
     <PackageTags>Liber, Education, Literature, API Client</PackageTags>
+    <PackageId>MikaelDui.Liber.Onlinebok.Client</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
