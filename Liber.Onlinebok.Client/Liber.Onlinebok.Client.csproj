@@ -9,6 +9,7 @@
     <RepositoryUrl>https://github.com/mikaeldui/LiberOnlinebokClient</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+    <PackageTags>Liber, Education, Literature, API Client</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
