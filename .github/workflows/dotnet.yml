@@ -3,8 +3,12 @@ name: .NET
 on:
   push:
     branches: [ main ]
+    paths: 
+      - Liber.Onlinebok.Client/**
   pull_request:
     branches: [ main ]
+    paths:
+      - Liber.Onlinebok.Client/**
 
 jobs:
   build:
