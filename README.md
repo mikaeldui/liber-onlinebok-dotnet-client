@@ -7,3 +7,5 @@ An unofficial .NET client for Liber Onlinebok.
 You can isntall it using the following package manager command:
 
     Install-Package MikaelDui.Liber.Onlinebok.Client
+
+It was created for use by [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel).
