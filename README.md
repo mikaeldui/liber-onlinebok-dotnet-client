@@ -8,4 +8,4 @@ You can install it using the following package manager command:
 
     Install-Package MikaelDui.Liber.Onlinebok.Client
 
-It was created for use by [Mina läromedel](https://github.com/mikaeldui/MinaLaromedel).
+It was created for use by [mikaeldui/MinaLaromedel](https://github.com/mikaeldui/MinaLaromedel).
