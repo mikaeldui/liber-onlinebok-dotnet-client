@@ -38,16 +38,15 @@ namespace Liber.Onlinebok
             };
 
             _httpClient = new HttpClient(handler);
+
+            _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Token", _token);
         }
 
         public async Task<LiberOnlinebokDocument> GetDocumentAsync()
         {
             var url = $"https://onlinebokarkiv.liber.se/stendhal/api/v0/documents/{_documentUuid}";
 
-            HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, url);
-            message.Headers.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Token", _token);
-
-            var response = await _httpClient.SendAsync(message);
+            var response = await _httpClient.GetAsync(url);
 
             response.EnsureSuccessStatusCode();
 
@@ -60,10 +59,7 @@ namespace Liber.Onlinebok
         {
             var url = $"https://onlinebokarkiv.liber.se/stendhal/api/v0/assets/location/{_documentUuid}";
 
-            HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, url);
-            message.Headers.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Token", _token);
-
-            var response = await _httpClient.SendAsync(message);
+            var response = await _httpClient.GetAsync(url);
 
             response.EnsureSuccessStatusCode();
 
@@ -78,10 +74,7 @@ namespace Liber.Onlinebok
         {
             var url = $"https://onlinebokarkiv.liber.se/stendhal/api/v0/documents/{_documentUuid}/attachments";
 
-            HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, url);
-            message.Headers.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Token", _token);
-
-            var response = await _httpClient.SendAsync(message);
+            var response = await _httpClient.GetAsync(url);
 
             response.EnsureSuccessStatusCode();
 

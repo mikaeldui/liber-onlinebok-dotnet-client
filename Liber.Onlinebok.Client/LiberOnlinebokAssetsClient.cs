@@ -11,6 +11,10 @@ namespace Liber.Onlinebok
     {
         private HttpClient _httpClient;
 
+        /// <summary>
+        /// Initializes a new instance for the given assets location.
+        /// </summary>
+        /// <param name="assetsLocation">The base address for the assets, e.g. "https://ttnpkgprd.s3.amazonaws.com/".</param>
         internal LiberOnlinebokAssetsClient(Uri assetsLocation)
         {
             _httpClient = new HttpClient
@@ -33,7 +37,7 @@ namespace Liber.Onlinebok
                 if (response.StatusCode == System.Net.HttpStatusCode.NotFound || response.StatusCode == System.Net.HttpStatusCode.Forbidden)
                     throw new LiberOnlinebokAssetNotFoundException(assetUri);
 
-                throw new ApplicationException("Something happened getting the page.");
+                response.EnsureSuccessStatusCode();
             }
 
             return await response.Content.ReadAsStreamAsync();
