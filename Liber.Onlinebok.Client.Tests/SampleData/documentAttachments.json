@@ -1,0 +1,6325 @@
+﻿{
+  "documentAttachments": [
+    {
+      "type": "audio",
+      "uuid": "2960f7a3-8d99-447f-ae1b-8d975b965b2b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 5,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/3.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "56b4c8e2-b78c-47be-a3f3-eb030a33c093",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 6,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/4.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "407d7bd3-9eee-4967-905b-5c6ec0cd17ea",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 7,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/5.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "87925d9b-6828-4dd8-8bb9-87f510c7d1c6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 8,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/6.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "11bfc5c2-dac2-48b9-8283-4b46607b7217",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 9,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/7.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b12efb57-6eb1-44ac-b799-03c15d1d4f8b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 10,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/8.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "347ac49a-b1f9-4dc8-ae67-c28e79703630",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 11,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/9.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "dc4116cb-1796-4fb7-abb3-e59267505307",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 12,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/10.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6fbbe979-8aca-4aea-8ca4-fe383f6650d6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 13,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/11.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "88c9b5ae-4f58-4347-ad14-f4cd1d5dbc47",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 14,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/12.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "585208d5-4600-4b8f-bdd4-5e351db0703d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 15,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/13.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "fb98a111-dd01-49c7-97cc-0724bb5b5366",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 16,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/14.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "14815d2c-bcb1-41be-a994-fc76968dcdb3",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 17,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/15.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "4267304e-94f1-4370-bea8-6d0ca16b9c58",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 18,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/16.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "42006a7b-a345-4a45-ae90-aa36c72b96b1",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 19,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/17.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "3e112e32-e975-480c-b24a-894d910ec0f9",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 20,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/18.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8e4a0f71-97fb-4bf1-8dce-76f8c379a029",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 21,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/19.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2976e39b-12eb-4e0c-a3ed-51b2892388ae",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 22,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/20.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c67d80d2-f051-433c-b25c-9d83e5025225",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 23,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/21.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "63d25459-ef27-458a-a61b-54ce6a96b2be",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 24,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/22.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "561f458d-ce90-4065-a1cd-7d21fe7df5a6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 25,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/23.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6eaa0af3-6f79-4768-8acf-7758a3c4caa1",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 26,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/24.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6cae0c8c-b711-4ad2-9044-76d0a697d849",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 27,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/25.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d3a190f7-74c8-4813-8eed-b6abdc516359",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 28,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/26.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "752c078d-a417-4709-b2f9-b90ef1159746",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 29,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/27.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "3afd403a-ed6a-4ba2-9460-80fd5c6450f0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 30,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/28.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "359127b6-eff6-4172-995f-287fbeb42167",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 31,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/29.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5718f6f5-6142-4162-aaa2-29d1beb296a6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 32,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/30.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "888fcd7b-3668-4a1f-83e1-2b4b8a43b053",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 33,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/31.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "45364fef-b142-4693-9d38-237a29a9979d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 34,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/32.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "fdf9e054-2238-4a04-bf25-dad658162bb0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 35,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/33.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "02fd7dee-2a4e-4d7a-a57c-93812d432bd0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 36,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/34.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b16532ec-e65b-480b-b275-468f29eea435",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 37,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/35.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "88c17f15-bb6c-457d-9e03-0213a38e21c9",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 38,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/36.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b6fffb45-0a80-4d53-b1d0-c66f29b812f8",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 39,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/37.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ee219bd6-e302-4ac3-b18c-07458ab96028",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 40,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/38.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "78a53c1b-c202-4743-888e-f6d880f60fd6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 41,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/39.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "9061dbca-1449-451e-9612-05695480a4d8",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 42,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/40.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7ab17321-d011-4b94-914a-0e119564d69f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 43,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/41.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "65aec0f5-979c-4369-9d15-0be7337487fd",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 44,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/42.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8dc76b31-cece-4c1e-8ae0-99d91e0a5f7a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 45,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/43.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "62e59c2e-e76f-4936-b879-5f186c1fd223",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 46,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/44.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e9e12046-3858-4813-8a40-604ad8c2f75f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 47,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/45.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "efc70379-d565-4601-87a7-4e8cdc461029",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 48,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/46.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "02990f91-076a-4b00-b5b5-eaf3ba6cd74e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 49,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/47.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "721dfc20-dbeb-497f-8493-b01c15ba96ad",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 50,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/48.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "3018253e-be10-44f3-9491-563842502289",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 51,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/49.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a0126139-5ddf-4998-a0d5-91ca236dda88",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 52,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/50.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f8634171-7cc2-43b7-950d-00c39e796877",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 53,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/51.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c9f2f81a-ebbe-4383-a37c-22be83b38de1",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 54,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/52.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8da89d75-3888-4857-8238-1b71eca0a0e3",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 55,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/53.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "afca5b6f-ca67-479c-80d9-b8745b06cb6e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 56,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/54.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "358cf52a-d5ab-4145-84f4-37a949a6d33a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 57,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/55.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5091d3db-eab3-4b6b-a75f-a6728bbd90c8",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 58,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/56.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2f9c6aab-61a9-45c9-8ae1-21b6707a9d77",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 59,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/57.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e4151c7d-4257-4183-b10b-0fa05d5a33dc",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 60,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/58.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5fa4c8d2-3071-4e3c-8348-4d16f9b2da62",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 61,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/59.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8ad5395e-748f-4537-99aa-8b3ffec4ac0b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 62,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/60.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "663c1420-1bdc-4b30-a519-d78c66f5170d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 63,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/61.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b33785a1-b5b8-4fed-99d3-17929f8123ca",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 64,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/62.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "448c79ff-cbff-4586-aee9-a41d36d079bc",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 65,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/63.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b3765fd3-6082-4095-b279-fad1ca9ca616",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 66,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/64.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ca976ff6-1be7-4ed9-8105-b12ab5543174",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 67,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/65.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "3d50de58-c2b4-4298-8dc4-0961f58c9b3a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 68,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/66.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "70f51a1f-ae25-44b5-afaa-256c66186185",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 69,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/67.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1891e957-495c-4eb2-9a24-4d6ebd94c40a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 70,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/68.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1f48145a-3799-4e9b-9d31-6fd7eb5cca2e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 71,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/69.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f632825d-5c2c-4c0b-8df0-e5d8e1f69af4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 72,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/70.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5428e288-44f5-4709-96ad-24f1c7a241bb",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 73,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/71.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "4dbb5451-74e7-4dd7-99db-4ce489cae90e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 74,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/72.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2d3ee3fd-3035-42ee-9b04-7ab44bd4a41c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 75,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/73.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "31fba9bf-8fdf-49ca-9fec-1d95eaaf3991",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 76,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/74.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "cf238188-8770-4b77-9b6d-957cbb26d87b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 77,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/75.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e20087ed-d8f9-440d-819b-f9823e72c6c2",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 78,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/76.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "fc73cd1a-5c2b-467e-8d9e-ed874fa05e3a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 79,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/77.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6c0986fe-8387-415b-9fe3-9fe5df5dab1a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 80,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/78.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b7ca2883-6e8a-4089-ae40-c4e9dca4c145",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 81,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/79.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "dc4ea1a8-d1bc-4339-aad0-c403b03e107f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 82,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/80.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "261e8aa6-8fe2-4aad-8a99-826d81e4704f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 83,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/81.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "98df7ff9-0a40-40f2-b2b6-8f94bc0eb057",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 84,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/82.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b17dd2e6-5f35-450a-86f6-b83916ccecc6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 85,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/83.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e7796d6a-b189-4983-b368-1d59b4053b46",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 86,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/84.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "343c370a-51f9-4f23-8c50-6a33e903a519",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 87,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/85.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f84a22ba-4d21-4368-b48f-f20a81e524de",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 88,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/86.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "88c1db80-61e3-4ded-b393-26fda313fe71",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 89,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/87.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1073e39e-8f7b-45ca-ab4f-8b9e9ab632a0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 90,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/88.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d85a1bf7-e999-4959-83a8-3a4950082ef4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 91,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/89.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5c3b2eda-b602-42c5-a83c-592fd5d4d784",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 92,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/90.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "01d9226a-2496-4567-b6e7-1207c72a8511",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 93,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/91.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ed60ebcc-5d8c-4b72-8596-57b6cfad3c33",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 94,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/92.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2d3681a4-79d8-4356-a29f-36d6e7e0c664",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 95,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/93.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "9b04a549-bf71-40a1-8643-a2ecd38d43aa",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 96,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/94.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c3cddfc0-d8aa-45fe-8919-b7da7ec88f78",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 97,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/95.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "bdf4e6ff-841d-4054-8ddd-428e38e6bf68",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 98,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/96.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a5174634-b1f8-4bcf-a5f6-210b5c8c4ced",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 99,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/97.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "69c10660-b676-4200-b1ce-354d62d59373",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 100,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/98.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "9efe363d-83c9-471a-9863-01ac235e7670",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 101,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/99.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "3731bef7-0146-4dd4-bc1a-3decb0d51a31",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 102,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/100.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e2a55abb-45d2-4fdd-8f4a-7d61a15a03d4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 103,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/101.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7fd8f5a5-eae3-40db-832f-5422d1a4aaa0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 104,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/102.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e26279a6-f05d-45a8-9f94-8d14f2f32225",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 105,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/103.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2d06539b-2612-48f2-b29d-7978d103d829",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 106,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/104.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "817151ee-9d23-4a88-b9e7-b978f2622334",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 107,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/105.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "63b253ec-3adf-4df3-b2af-55e764851fd0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 108,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/106.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7af98a02-5fd5-4a9e-97c0-5e58eac89974",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 109,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/107.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8f3ff2cf-4907-4fda-8247-9e5ec2551e5d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 110,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/108.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e93e98ce-131d-42ad-a8b3-39c0b65257fe",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 111,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/109.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d4d7ec38-4a0c-45b1-9bb2-51494f6fda7a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 112,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/110.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f1782142-8dda-4608-a530-4da8405d0b7c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 113,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/111.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7f13b6e7-df8a-468c-9efd-40475cf4de2b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 114,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/112.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ef3179f9-213c-4ac6-98e7-78bf375d6d4d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 115,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/113.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c95ea3e6-6068-43e1-9943-890fdaed964d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 116,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/114.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "80655287-f1cc-4eb0-a8d4-350d2cd03143",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 117,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/115.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a57b18bc-a7cc-4e9b-a769-23a09fdf4bbd",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 118,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/116.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "14aa4a6a-0db3-49c6-984f-a328848bd06d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 119,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/117.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a0660bd2-0c66-4e67-827c-eb39c3103c8e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 120,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/118.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "83340b3f-842c-42ab-b299-4f7f6dca4f80",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 121,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/119.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8c800b02-9a57-4319-8c00-cb596a569541",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 122,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/120.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "feaff442-be9c-47f6-9e90-163b0fd92741",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 123,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/121.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "cb23a85c-2a98-4e00-9edb-da9a7901ae8b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 124,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/122.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ae8fa8d1-be8b-4d5e-aa9d-bcc2ebf2cac2",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 125,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/123.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f90878f8-d727-4876-b94e-4274698ccc0e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 126,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/124.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "57853239-cb97-4699-a141-250042af7511",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 127,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/125.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "df3f0da2-753f-4688-b4ae-2e930668af3b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 128,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/126.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a222720c-d76e-49dd-8233-bdcc66f8c16a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 129,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/127.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "94f494ef-2f08-4f09-9d5d-8e6732d6f8e0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 130,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/128.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "03aaf49a-a9d5-4fd3-86b5-abf0ed15e05f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 131,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/129.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "dac970c1-39a3-46eb-9cf8-78e97c237b24",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 132,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/130.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "cf40b432-7c3b-4027-be46-d3f2156de1e4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 133,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/131.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ea9c2a70-2f84-46f0-ae9d-1b706ed1d83c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 134,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/132.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "71166abb-aa19-4469-8426-6978d23ed562",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 135,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/133.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b20728d6-b830-4f90-a9af-82e3f3fb4370",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 136,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/134.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0679c9d8-caf8-4510-b759-167cdbf03e1c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 137,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/135.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "278e3f08-f7e9-4866-a477-c2305c5315aa",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 138,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/136.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "da9e600f-e27f-4825-8c34-fb524d8d5ca4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 139,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/137.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "09cc1242-314f-4cc0-bd18-ef490c4b1b6a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 140,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/138.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7462e3e7-5942-490c-8bf7-047ba3ac2a69",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 141,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/139.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "36562ff5-2072-4657-875b-52f9814c609d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 142,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/140.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ef026d97-d633-4d40-a711-0394a76893dd",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 143,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/141.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ee9f48b1-e09d-4b70-8c03-8b68f71bcffe",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 144,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/142.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "955a590c-f8ce-4476-be12-33d39295483b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 145,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/143.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ae612e47-4f55-4f5b-8785-43df9449a3da",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 146,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/144.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "93c6c760-6827-4929-9e40-530125e51196",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 147,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/145.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "26d5ecfd-4dac-4bef-ad23-585462d74df7",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 148,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/146.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5056252f-e855-4b87-af7e-98c4d72c315d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 149,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/147.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1716ce8b-af83-4932-923e-aa7d01dc9eac",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 150,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/148.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "82bccf18-797f-4089-aa00-a9edea454ae3",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 151,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/149.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ee4c42ea-b7d7-43e8-b8fb-c81d31e9db71",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 152,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/150.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "bb93f7f0-25c2-473b-a422-4bf23b1333ee",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 153,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/151.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "171f3660-21d4-4c5b-b8fb-29d39b8d18e0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 154,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/152.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "28d697cc-b380-4343-a1cd-98d5bfea2895",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 155,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/153.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0673a270-cf10-43f1-b2c3-abf7fec22338",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 156,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/154.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8ee03524-9e92-448f-9675-32114560ce03",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 157,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/155.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ed16ac97-d2da-42d4-8945-b190bf04ceaa",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 158,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/156.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a77bbcaf-7d38-45e4-b78f-68433570b11b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 159,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/157.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "67e7dceb-1b04-4cfd-9d0b-7c6536fcaf34",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 160,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/158.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "beb361ce-1775-46e6-ba55-7a98afa11fef",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 161,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/159.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a28cddde-d90b-4da6-8cc0-2a5661afb4a4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 162,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/160.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5dda4173-c62d-4a35-8794-da48633b00ed",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 163,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/161.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "db8cf822-f533-4a49-ad97-90df3676b930",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 164,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/162.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8bee0ca8-d3e6-44e9-b844-c3a776ff6aea",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 165,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/163.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "53a7c4bb-90d2-465e-aa6e-283093c1e59a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 166,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/164.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "de829134-fe27-48cf-adbf-f3401f0cdfe7",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 167,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/165.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e1841d65-a426-4996-a167-690bdf076678",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 168,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/166.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6bf63449-b81e-4ae1-b826-fc4e008b5ece",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 169,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/167.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "aa0eccf1-e51b-4ff2-843b-2d0a9ce25065",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 170,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/168.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e877c4a5-e513-4da0-8714-980591bb6d3f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 171,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/169.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c1e11a2f-ccb0-42c0-94c6-e7fa096a9262",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 172,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/170.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c91f2c24-bda1-47f1-a8f1-fcb761099442",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 173,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/171.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d2d043a4-a4ff-40d4-ae9f-19c4a6ddc6d4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 174,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/172.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ed05514e-0a81-4459-a208-283452512bdb",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 175,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/173.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7ce2050d-5cf9-4acf-bf9b-bc56c186354a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 176,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/174.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "95b0e397-d3d2-4884-a6fc-98e76b86eb59",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 177,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/175.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0a8a12d7-f1cd-448b-ae3a-ee80b0da5fe2",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 178,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/176.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "cd381208-e74c-4fc1-8ddd-40d9ce83fd4e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 179,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/177.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "11c2ab40-4a34-4063-a5c1-fc2226c7fd03",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 180,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/178.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d11820ab-2fff-43a0-905d-792206793a92",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 181,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/179.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "814138b9-a81d-4f97-87e0-cb8a64b76d6e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 182,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/180.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "51186cb5-45da-41a5-b0b0-d74ad22bc449",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 183,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/181.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a4de768a-f594-4df6-af08-247c7cf2f6a3",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 184,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/182.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "de54d62a-3ba6-48b3-a946-330e638cff97",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 185,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/183.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "09326f3c-a75e-4ab3-8c0a-25b4e6d65333",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 186,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/184.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "da823d2d-20e0-4241-84bf-d213e0303ef8",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 187,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/185.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "aa32a8d2-46ef-4d47-a059-4b81fd761a84",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 188,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/186.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "617672c7-377a-4aec-861b-4df61e1b4d06",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 189,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/187.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "bac3e571-cdc7-4cb3-b236-08d4833a9b08",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 190,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/188.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "62c24bfc-9f8f-48bf-a815-18c636e7a1d5",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 191,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/189.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "90630753-fb4d-498a-baa1-5025f9bfa26c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 192,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/190.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5ce6ebc2-322b-47a7-9215-4d5cce4e50d6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 193,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/191.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "94c9e52c-e202-496e-ad6d-3dd60abd641b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 194,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/192.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1c5b5bec-d13e-4435-aa4b-aeac7447b19b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 195,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/193.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "46bf363a-88a7-4283-bc72-63dc6219595c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 196,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/194.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "07c7d6ef-bbaa-45cc-a894-99e190162839",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 197,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/195.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0509c6b6-3bf5-4def-a38c-108bfb08bb3d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 198,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/196.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "194fd844-72e1-4270-8660-4becf31ddb3c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 199,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/197.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "14ce5326-79f5-4327-9d60-e8462ada9af5",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 200,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/198.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "892e1f02-79fa-44d4-898f-bddb45d3d65e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 201,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/199.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "86df7b7a-51e2-4ec0-8b7c-dd4ee537086f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 202,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/200.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f288f0ab-6806-494d-9b70-6b7f4b27f81e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 203,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/201.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "10a634f4-6945-4d4e-b1c1-d71ecfac0721",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 204,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/202.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a60018f6-a9fc-4eb3-931f-eace0a0c913d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 205,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/203.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c0ab3ad8-3534-477f-b58f-eae4aec61b84",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 206,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/204.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e074ca1d-f944-45e1-af01-ac0b93c6cfff",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 207,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/205.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8787701a-09c5-40ca-b414-c9be4d494225",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 208,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/206.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8236052a-1080-4859-a21a-d0fc6da6766b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 209,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/207.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a15adc6e-c12f-4021-843a-19dedcda0e1e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 210,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/208.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0d00d954-7917-4283-9777-182e724e3ad2",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 211,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/209.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5c4af3b4-a209-445a-98f5-9f3865f984d0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 212,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/210.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "fe07b6f2-fde1-456c-92f1-5a5d1721f1ef",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 213,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/211.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "51afdcd2-8402-47ed-a52e-d0a6aca2ad22",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 214,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/212.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8dc2d8f2-9427-4354-ab71-f16846514266",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 215,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/213.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7abd5891-059b-4824-8b10-53658c421efd",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 216,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/214.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2fea66eb-e742-4ae1-a4d0-5597a8d7f533",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 217,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/215.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d9a457ee-84dd-4eff-bfa1-5426b0bc4619",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 218,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/216.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "80d5ff41-4ef7-413b-b020-4132c54e3894",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 219,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/217.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "14037ae8-4ba5-4fba-a4fc-bf5078c69f27",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 220,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/218.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0141ed2d-6038-496a-9986-58e868e4cd47",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 221,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/219.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c168ba39-fac0-44c4-888f-66d2466282f9",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 222,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/220.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d053cd45-d04a-4330-a466-cb0690f39a3a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 223,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/221.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e87e9777-b68a-4137-b2c0-5bd9b425d601",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 224,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/222.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "aee243e2-2fae-498d-ad89-f0d90a94efc1",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 225,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/223.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6e33ba03-a8bf-4edd-9f6b-3107e96725ef",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 226,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/224.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "0ae3ba0d-5d52-4672-a923-1cee5b8ea4e5",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 227,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/225.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "e1c4783a-c564-44de-a2b9-2e712f9b176f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 228,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/226.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "375107c5-84b9-4d29-9c47-84064d9335d9",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 229,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/227.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b01df3ab-1a2e-465a-af75-e320ebf3bfa6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 230,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/228.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "036d493a-5fa9-4880-be92-4bf2edf86eda",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 231,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/229.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "de2e9f01-ad00-49c8-a7db-cb205a895d29",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 232,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/230.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "dafc277e-64de-49e0-b5cb-ffb67c93728c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 233,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/231.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "41ebe5db-3f0f-4dad-9657-0198e9cbd3b8",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 234,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/232.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1b5af8a9-8418-4ca5-9eb6-c69e46fc5d27",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 235,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/233.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "73edfe00-c0f9-4a4b-976b-8f86f38c590f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 236,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/234.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "23817df7-c8bf-485b-8b56-67da019f05b1",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 237,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/235.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "6880723a-bf53-4563-897f-27a240de8116",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 238,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/236.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "16206580-9020-4099-93ed-1cd976e2e56d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 239,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/237.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "98d963e5-d381-4a8e-9181-e14d50f06392",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 240,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/238.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5d2392e0-6d17-415e-ad68-00337588f5f6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 241,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/239.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a0377fb5-898c-43ed-a9e7-f1a06e9d398f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 242,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/240.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f9c64881-1fd4-4d22-b2f2-9076aa359a05",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 243,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/241.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1dc70f4f-ef62-4410-be07-eb95e0f1268c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 244,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/242.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "73b06cd2-bfef-4ac4-b936-4942c3710e36",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 245,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/243.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2fa184e0-3ad6-46e0-baf7-03d808ace0a0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 246,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/244.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8ed9a041-736d-459d-b6d7-2aa6e437f160",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 247,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/245.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "fb47df4f-490e-4ff6-831d-46bc80575791",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 248,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/246.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2173c1eb-116e-4156-9a0a-2d0f5c8b8bc4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 249,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/247.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "4a7d93fc-a2ab-4350-a669-b9335da29c11",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 250,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/248.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "4e4ea7ce-63dd-4349-a671-a29018a315fa",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 251,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/249.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "06ddab40-38c4-415b-8957-1235debc83d0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 252,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/250.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "dbed698b-baa4-453e-b809-5931c19a23ef",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 253,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/251.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2863de1f-aff8-46de-a6a7-9c418fb7e8ea",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 254,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/252.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "601bab71-e199-48b9-b4ea-d7a951e71554",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 255,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/253.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7b8ee769-9ba5-4344-ba2d-67d98dab145a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 256,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/254.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "441d5b18-87e6-4581-99cc-aa708e2d4f1b",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 257,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/255.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "50b8c656-7a39-4143-8d13-0bcba455e137",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 258,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/256.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d8130151-a325-4444-bddf-4d56ef635a7d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 259,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/257.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "533d34dc-4b50-44bd-99ab-2f907e829ba6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 260,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/258.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5a14dbff-a7b7-41d8-9c9c-88ddb233d9cb",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 261,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/259.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7b626557-831c-413d-9dde-ad790ff8ee31",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 262,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/260.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "66542516-460d-4ea1-a333-60491d77c977",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 263,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/261.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "4f43b7c6-6f09-4de4-9e2a-8e4f78d66d4f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 264,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/262.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b650a60e-e119-40e6-96d7-62a5c47aca58",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 265,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/263.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "29bf8c2d-caf0-4a7e-8d84-bec68eaf38be",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 266,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/264.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "83f1f8b2-35e8-49d2-9bd8-9dfc4f68b508",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 267,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/265.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "cb8876a2-ee87-45c8-a381-5748805c34f5",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 268,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/266.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ecfdfc21-44e6-4ec0-905b-37eb6b5995c9",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 269,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/267.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "a7c94cd2-93e5-4609-9335-41cc8411ac03",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 270,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/268.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "9f50038c-f3e0-44ca-925e-4ca1f89a98e2",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 271,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/269.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c84e3b24-25fd-4015-88c1-ff08098e8918",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 272,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/270.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "cb30ccda-0d00-40b8-b4fc-f7961f4ebc5d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 273,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/271.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "80c87ea2-7f33-4c35-8b1b-cad8a88091f5",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 274,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/272.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1418dfd4-553c-49f4-a850-f6215449ed2d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 275,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/273.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f780ccf2-efe3-4425-bbbc-7e37f6f960b6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 276,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/274.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "270ec426-ce83-40a5-a5c2-eac5116ba42a",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 277,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/275.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "bb65dd3c-733c-4114-bf68-482724dd6d52",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 278,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/276.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "ed41b139-2a19-45bb-ae07-b886faa6d3be",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 279,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/277.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "8d49eee0-7384-4c82-9402-4dada0be6cf0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 280,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/278.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b66c9b72-1a7c-417f-b791-68c14acc3c00",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 281,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/279.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f825759d-51f3-425d-92cf-a54fc111a85f",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 282,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/280.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "1b839e21-8f7d-4c28-ab0f-fbacd09bacae",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 283,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/281.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "7e40dc82-7e0e-4f42-acef-390a3cf56915",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 284,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/282.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "32911028-5752-4947-be7e-2aa3e3d56b72",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 285,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/283.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b97f312d-ea37-4e40-9f6b-e486bde0e365",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 286,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/284.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f7806aa9-8452-4662-bd6b-719a87af3550",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 287,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/285.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "797e2722-4edc-4afc-9584-0eeb4df634d6",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 288,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/286.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "b3706057-b873-48dc-8bb0-413f91254b56",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 289,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/287.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "65155ca5-0013-4406-b156-89f2ca002789",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 290,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/288.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "3dd23df0-8ed6-46d8-9f73-b00513dbdea4",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 291,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/289.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "2910e302-1f4d-49d2-8d5d-14c29693904c",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 292,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/290.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "35caaa11-adae-460e-a511-91360c9f866d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 293,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/291.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "535615b2-af9c-4780-bc74-94ebf76c45c0",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 294,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/292.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "26416d12-c3f3-4618-9e4a-6ff910880270",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 295,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/293.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "4c795659-518a-48d3-a207-2eb0885fb21d",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 296,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/294.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "d105eae9-363c-4458-a419-20698b8241f1",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 297,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/295.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "5b8d347f-9fac-4dec-9f34-0cf67af88508",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 298,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/296.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "12539277-1c6e-42ea-8333-92f3120ffc9e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 299,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/297.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c58699c3-1e4e-48c9-a18a-cfdbd5e7b710",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 300,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/298.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "c0f84eea-cf83-47f7-8259-6e9eafd22427",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 301,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/299.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "bc3ecd97-ece8-4db8-a007-19ae833536bd",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 302,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/300.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "38d0da8c-5711-488b-ba5a-85c49366e91e",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 303,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/301.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "18aa0ea3-157b-417c-b2c1-42dc61c60fad",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 304,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/302.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "uuid": "f6c03380-ff17-475a-bf75-6c845f87e600",
+      "subType": "audio",
+      "provider": "LIBER",
+      "title": "Inläst ljud",
+      "description": "Spela upp sidan",
+      "contentItemOrderingIndexRef": 305,
+      "behavior": {
+        "type": "textToSpeech",
+        "properties": null
+      },
+      "iconUrl": "http://digitalt.liber.se/onlinebok/ikoner/audio.png",
+      "media": [
+        {
+          "url": "http://liberonline.s3.amazonaws.com/9789147085231/audio/303.mp3",
+          "mimeType": "audio/mpeg",
+          "durationMillis": 10000
+        }
+      ]
+    }
+  ]
+}

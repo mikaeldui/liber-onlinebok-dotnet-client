@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Liber.Onlinebok
 {
-
     public class LiberOnlinebokDocument
     {
         public LiberOnlinebokDocumentStructure Structure { get; set; }
@@ -25,7 +24,8 @@ namespace Liber.Onlinebok
     {
         public Guid Uuid { get; set; }
         public string Type { get; set; }
-        public Dictionary<string, LiberOnlinebokDocumentStructureRootChild> Children { get; set; }
+        [JsonConverter(typeof(DictionaryToArrayJsonConverter))]
+        public LiberOnlinebokDocumentStructureRootChild[] Children { get; set; }
         public bool ShowToc { get; set; }
     }
 
@@ -40,7 +40,8 @@ namespace Liber.Onlinebok
 
     public class LiberOnlinebokDocumentContent
     {
-        public Dictionary<string, LiberOnlinebokDocumentContentContentItem> ContentItems { get; set; }
+        [JsonConverter(typeof(DictionaryToArrayJsonConverter))]
+        public LiberOnlinebokDocumentContentContentItem[] ContentItems { get; set; }
         public LiberOnlinebokDocumentContentAsset AssetPkg { get; set; }
         public LiberOnlinebokDocumentContentAsset CoverImage { get; set; }
         public LiberOnlinebokDocumentContentAsset CoverImageSmall { get; set; }

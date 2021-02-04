@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -17,8 +15,6 @@ namespace Liber.Onlinebok
         private readonly Guid _documentUuid;
         private readonly string _token;
         private readonly HttpClient _httpClient;
-
-        public LiberOnlinebokClient() => _httpClient = new HttpClient();
 
         /// <summary>
         /// Initializes a client using existing cookies and token.
@@ -52,7 +48,7 @@ namespace Liber.Onlinebok
 
             var json = await response.Content.ReadAsStringAsync();
 
-            return await Task.Run(() => JsonConvert.DeserializeObject<LiberOnlinebokDocument>(json));
+            return await LiberOnlinebokParser.ParseDocumentAsync(json);
         }
 
         public async Task<Uri> GetAssetsLocationAsync()
@@ -65,7 +61,7 @@ namespace Liber.Onlinebok
 
             var json = await response.Content.ReadAsStringAsync();
 
-            return new Uri(await Task.Run(() => JObject.Parse(json).SelectToken("assetLocationResponse").Value<string>("assetLocationUrl")), UriKind.Absolute);
+            return await LiberOnlinebokParser.ParseAssertsLocationAsync(json);
         }
 
         public async Task<LiberOnlinebokAssetsClient> GetAssetsClientAsync() => new LiberOnlinebokAssetsClient(await GetAssetsLocationAsync());
@@ -80,7 +76,7 @@ namespace Liber.Onlinebok
 
             var json = await response.Content.ReadAsStringAsync();
 
-            return await Task.Run(() => JObject.Parse(json).SelectToken("documentAttachments").ToObject<LiberOnlinebokDocumentAttachment[]>());
+            return await LiberOnlinebokParser.ParseDocumentAttachmentsAsync(json);
         }
 
         public void Dispose() => _httpClient.Dispose();
