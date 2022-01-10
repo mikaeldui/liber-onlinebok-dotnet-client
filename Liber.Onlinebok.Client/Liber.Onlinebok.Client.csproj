@@ -5,14 +5,13 @@
     <RootNamespace>Liber.Onlinebok</RootNamespace>
     <Authors>mikaeldui</Authors>
     <Company>mikaeldui</Company>
-    <PackageProjectUrl>https://github.com/mikaeldui/LiberOnlinebokClient</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/mikaeldui/LiberOnlinebokClient</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mikaeldui/liber-onlinebok-dotnet-client</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mikaeldui/liber-onlinebok-dotnet-client</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
     <PackageTags>Liber, Education, Literature, API Client</PackageTags>
     <PackageId>MikaelDui.Liber.Onlinebok.Client</PackageId>
     <Description>An unofficial .NET client for Liber Onlinebok.</Description>
-    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
