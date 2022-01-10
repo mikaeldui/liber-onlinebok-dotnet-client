@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Liber.Onlinebok
 {
-    public sealed class LiberOnlinebokAssetsClient : IDisposable
+    public class LiberOnlinebokAssetsClient : IDisposable
     {
         private HttpClient _httpClient;
 
