@@ -27,18 +27,11 @@ jobs:
         dotnet-version: 6.0.x
         
     - name: Create tag dry run
-      id: tag_version
+      id: tag
       uses: mikaeldui/actions/create-tag@main
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         dry_run: true
-        
-    - name: Create version
-      id: version
-      run: |
-        version=$(echo ${{ steps.tag_version.outputs.new_tag }} | cut -c2-)
-        echo "::set-output name=version::$version"
-      shell: bash
         
     - name: SemVer suffix
       id: semver
@@ -50,7 +43,7 @@ jobs:
       run: dotnet restore
       
     - name: Build
-      run: dotnet build --no-restore --configuration Release /p:Version=${{ steps.version.outputs.version }}${{ steps.semver.outputs.suffix }}
+      run: dotnet build --no-restore --configuration Release /p:Version=${{ steps.tag.outputs.version }}${{ steps.semver.outputs.suffix }}
       
     - name: Test
       run: dotnet test --no-build --configuration Release --verbosity normal
@@ -60,7 +53,7 @@ jobs:
     - name: 'Pack & Publish Artifact'
       uses: mikaeldui/actions/nupkg/dotnet/pack-and-publish-artifact@main
       with:
-        version: ${{ steps.version.outputs.version }}${{ steps.semver.outputs.suffix }}
+        version: ${{ steps.tag.outputs.version }}${{ steps.semver.outputs.suffix }}
         project_directory: ./Liber.Onlinebok.Client
         
   nuget-org:
