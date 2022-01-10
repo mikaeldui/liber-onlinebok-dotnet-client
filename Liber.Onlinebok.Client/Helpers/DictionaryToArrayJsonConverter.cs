@@ -19,11 +19,13 @@ namespace Liber.Onlinebok
         public override object ReadJson(JsonReader reader, Type objectType, object existingValue, JsonSerializer serializer)
         {
             if (!objectType.IsArray) throw new ArgumentException("The property type must be an array.");
+            
             if (reader.TokenType == JsonToken.Null) return null;
 
             var elementType = objectType.GetElementType();
 
             var jObject = JObject.Load(reader);
+            
             var objects = jObject.Children().Select(j => j.First.ToObject(elementType)).ToArray();
 
             var array = Array.CreateInstance(elementType, objects.Count());
