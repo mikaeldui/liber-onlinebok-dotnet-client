@@ -28,7 +28,7 @@ jobs:
         
     - name: Create tag dry run
       id: tag_version
-      uses: mikaeldui/action/create-tag@main
+      uses: mikaeldui/actions/create-tag@main
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         dry_run: true
