@@ -26,16 +26,16 @@ namespace Liber.Onlinebok
             _documentUuid = documentUuid;
             _token = token;
 
-            HttpClientHandler handler = new HttpClientHandler
+            HttpClientHandler handler = new()
             {
                 AllowAutoRedirect = true,
                 CookieContainer = cookieContainer,
                 UseCookies = true
             };
 
-            _httpClient = new HttpClient(handler);
+            _httpClient = new(handler);
 
-            _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Token", _token);
+            _httpClient.DefaultRequestHeaders.Authorization = new("Token", _token);
         }
 
         public async Task<LiberOnlinebokDocument> GetDocumentAsync()
@@ -90,7 +90,7 @@ namespace Liber.Onlinebok
             if (!match.Success)
                 throw new FormatException("The format of the URL is invalid, no GUID found.");
 
-            return new LiberOnlinebokClient(Guid.Parse(match.Value), uriString.Split('/').Last(), cookies);
+            return new LiberOnlinebokClient(Guid.Parse(match.Value), uriString.SplitAndRemoveEmptyEntries('/').Last(), cookies);
         }
     }
 }

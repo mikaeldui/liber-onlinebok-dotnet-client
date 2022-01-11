@@ -9,7 +9,7 @@ namespace Liber.Onlinebok
 {
     public class LiberOnlinebokAssetsClient : IDisposable
     {
-        private HttpClient _httpClient;
+        private readonly HttpClient _httpClient;
 
         /// <summary>
         /// Initializes a new instance for the given assets location.
@@ -17,7 +17,7 @@ namespace Liber.Onlinebok
         /// <param name="assetsLocation">The base address for the assets, e.g. "https://ttnpkgprd.s3.amazonaws.com/".</param>
         internal LiberOnlinebokAssetsClient(Uri assetsLocation)
         {
-            _httpClient = new HttpClient
+            _httpClient = new()
             {
                 BaseAddress = assetsLocation
             };

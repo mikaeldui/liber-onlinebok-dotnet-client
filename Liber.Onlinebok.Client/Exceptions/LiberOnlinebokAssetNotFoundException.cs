@@ -11,15 +11,9 @@ namespace Liber.Onlinebok
     [DebuggerStepThrough]
     public class LiberOnlinebokAssetNotFoundException : ApplicationException
     {
-        public LiberOnlinebokAssetNotFoundException(Uri assetUri) : base(_getErrorMessage(assetUri))
-        {
-            AssetUri = assetUri;
-        }
+        public LiberOnlinebokAssetNotFoundException(Uri assetUri) : base(_getErrorMessage(assetUri)) => AssetUri = assetUri;
 
-        public LiberOnlinebokAssetNotFoundException(Uri assetUri, Exception innerException) : base(_getErrorMessage(assetUri), innerException)
-        {
-            AssetUri = assetUri;
-        }
+        public LiberOnlinebokAssetNotFoundException(Uri assetUri, Exception innerException) : base(_getErrorMessage(assetUri), innerException) => AssetUri = assetUri;
 
         public Uri AssetUri { get; }
 
