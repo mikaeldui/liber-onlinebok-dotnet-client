@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Reflection;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -12,6 +13,21 @@ namespace Liber.Onlinebok
 {
     public sealed class LiberOnlinebokClient : IDisposable
     {
+        private static readonly string USER_AGENT;
+
+        static LiberOnlinebokClient()
+        {
+            var client = UserAgent.From(typeof(LiberOnlinebokClient).GetTypeInfo().Assembly);
+            client.Name = "MikaelDui.Liber.Onlinebok.Client";
+
+            var entryAssembly = Assembly.GetEntryAssembly();
+            if (entryAssembly != null)
+                client.DependentProduct = UserAgent.From(entryAssembly);
+
+            USER_AGENT = client.ToString();
+        }
+
+
         private readonly Guid _documentUuid;
         private readonly string _token;
         private readonly HttpClient _httpClient;

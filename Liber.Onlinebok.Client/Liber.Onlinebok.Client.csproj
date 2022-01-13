@@ -16,7 +16,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MikaelDui.Extensions" Version="*" />
+	<PackageReference Include="MikaelDui.Extensions" Version="*" />
+	<PackageReference Include="MikaelDui.Net.Http" Version="*" />
     <PackageReference Include="Newtonsoft.Json" Version="*" />
   </ItemGroup>
 
