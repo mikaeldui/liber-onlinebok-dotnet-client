@@ -18,6 +18,7 @@
   <ItemGroup>
 	<PackageReference Include="MikaelDui.Extensions" Version="*" />
 	<PackageReference Include="MikaelDui.Net.Http" Version="*" />
+	<PackageReference Include="MikaelDui.Client.Base" Version="*" />
     <PackageReference Include="Newtonsoft.Json" Version="*" />
   </ItemGroup>
 
